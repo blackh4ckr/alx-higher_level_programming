@@ -2,4 +2,4 @@
 def uppercase(str):
     for char in str:
         char = char.title()
-    return str
+    print(str)
